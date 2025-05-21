@@ -9,4 +9,4 @@
 | -  | -     |
 | -  | -  |
 ### Deskripsi Proyek:
-Proyek ini merupakan pengembangan aplikasi eCommerce mobile menggunakan Flutter untuk platform Android dan iOS, didukung oleh Node.js (Express) sebagai backend API dan MongoDB sebagai database utama.
+Mengembangkan aplikasi eCommerce mobile menggunakan Flutter untuk platform Android dan iOS, dengan Node.js (Express) sebagai backend API dan MongoDB sebagai database utama. Proyek ini dirancang untuk mengimplementasikan sistem informasi berbasis web dengan fitur manajemen produk, transaksi, dan autentikasi pengguna sebagai bagian dari tugas akhir.
