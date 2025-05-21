@@ -1,0 +1,39 @@
+name: admin
+description: A new Flutter project.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.3
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.7
+  fl_chart: ^0.71.0
+  dropdown_button2: ^2.3.9
+  image_picker_for_web: ^3.0.3
+  image_picker: ^1.0.0
+  gap: ^3.0.1
+  get: ^4.6.6
+  provider: ^6.1.2
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  fake_async: ^1.3.2  # ← sesuaikan versi dengan yang digunakan oleh flutter_test
+  leak_tracker: ^10.0.8
+  leak_tracker_flutter_testing: ^3.0.9
+  leak_tracker_testing: 3.0.1
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
