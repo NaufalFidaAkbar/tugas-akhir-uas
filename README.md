@@ -1,7 +1,7 @@
 # tugas-akhir-uas
 # Implementasi dan Evaluasi Sistem Informasi
 
-## Kelompok: Kelompok 9
+## Kelompok 9
 ### Anggota:
 | NIM         | Nama Lengkap         |
 |-------------|----------------------|
