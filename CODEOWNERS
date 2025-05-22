@@ -1,0 +1,5 @@
+# Proteksi folder config hanya bisa di-approve oleh kamu
+/config/ @kamuUsername
+
+# Folder penting lain
+/src/important-stuff/ @kamuUsername
