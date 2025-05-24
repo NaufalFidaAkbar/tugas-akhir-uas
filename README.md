@@ -6,7 +6,7 @@
 | NIM         | Nama Lengkap         |
 |-------------|----------------------|
 | 2271020132  | Naufal Fida Akbar    |
-| -  | -     |
-| -  | -  |
+| 2271020144  | Randika Putra P      |
+| 2271020018  | Fadly Mukti Nugroho  |
 ### Deskripsi Proyek:
 Mengembangkan aplikasi eCommerce mobile menggunakan Flutter untuk platform Android dan iOS, dengan Node.js (Express) sebagai backend API dan MongoDB sebagai database utama. Proyek ini dirancang untuk mengimplementasikan sistem informasi berbasis web dengan fitur manajemen produk, transaksi, dan autentikasi pengguna sebagai bagian dari tugas akhir.
