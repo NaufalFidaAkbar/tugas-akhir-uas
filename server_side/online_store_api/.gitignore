@@ -1,0 +1,55 @@
+# === Node.js Related ===
+node_modules/
+.env
+logs/
+*.log
+npm-debug.log*
+
+# === Miscellaneous Files ===
+*.class
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# === IntelliJ/IDEA Related ===
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# === VSCode Related ===
+.vscode/
+
+# === Flutter/Dart/Pub Related ===
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# === Web Related ===
+lib/generated_plugin_registrant.dart
+
+# === Symbolication and Obfuscation Related ===
+app.*.symbols
+app.*.map.json
+
+# === Android Studio Build Artifacts ===
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# === Test Coverage (Umum) ===
+coverage/
+
+# === Dist/Build Output (Node.js Frontend Build) ===
+dist/
